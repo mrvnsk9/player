@@ -42,6 +42,9 @@ public class Player {
      */
     private static final String DUMP_NATIVE_MEMORY = "false";
 
+    /**
+     * Video depth multiplier
+     */
     private static final int DEPTH = 4;
 
     private ByteBuffer buffer;
